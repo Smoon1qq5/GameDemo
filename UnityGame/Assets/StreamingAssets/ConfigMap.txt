@@ -1,0 +1,3 @@
+BaseSkill=Skill/BaseSkill
+CircleSkill=Skill/CircleSkill
+SectorSkill=Skill/SectorSkill

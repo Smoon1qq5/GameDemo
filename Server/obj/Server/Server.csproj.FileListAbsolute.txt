@@ -1,0 +1,9 @@
+E:\UnityProject\UnityGameServer\Server\bin\Server\Server.exe.manifest
+E:\UnityProject\UnityGameServer\Server\bin\Server\Server.application
+E:\UnityProject\UnityGameServer\Server\bin\Server\Server.exe
+E:\UnityProject\UnityGameServer\Server\obj\Server\Server.csproj.CoreCompileInputs.cache
+E:\UnityProject\UnityGameServer\Server\obj\Server\Server.TrustInfo.xml
+E:\UnityProject\UnityGameServer\Server\obj\Server\Server.exe.manifest
+E:\UnityProject\UnityGameServer\Server\obj\Server\Server.application
+E:\UnityProject\UnityGameServer\Server\obj\Server\Server.exe
+E:\UnityProject\UnityGameServer\Server\obj\Server\Server.csproj.AssemblyReference.cache

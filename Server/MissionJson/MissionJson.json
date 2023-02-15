@@ -1,0 +1,1 @@
+[{"Description":"击杀敌人","ID":1,"Require":[{"goodsType":"Material","goodsCount":5}],"Reward":[{"goodsType":"Experience","goodsCount":10}]},{"Description":"获取金币","ID":2,"Require":[{"goodsType":"GoldCoin","goodsCount":10}],"Reward":[{"goodsType":"Experience","goodsCount":5}]}]

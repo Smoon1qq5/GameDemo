@@ -1,0 +1,8 @@
+id=1
+description=击杀敌人
+require=Material+5
+reward=Experience+10
+id=2
+description=获取金币
+require=GoldCoin+10
+reward=Experience+5

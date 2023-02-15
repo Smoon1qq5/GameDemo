@@ -1,0 +1,7 @@
+E:\UnityProject\UnityGameServer\Server\bin\Release\Server.exe.config
+E:\UnityProject\UnityGameServer\Server\bin\Release\Server.exe
+E:\UnityProject\UnityGameServer\Server\bin\Release\Server.pdb
+E:\UnityProject\UnityGameServer\Server\obj\Release\Server.csproj.AssemblyReference.cache
+E:\UnityProject\UnityGameServer\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+E:\UnityProject\UnityGameServer\Server\obj\Release\Server.exe
+E:\UnityProject\UnityGameServer\Server\obj\Release\Server.pdb

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ns.SkillDeployer">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAQACAAAAAgAAAAoAAAIgAAAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\SkillSystem\Deployer\SkillDeployer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ns.SkillManager">
+    <Position X="1" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACAAAAAgAAIAAAAEAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SkillSystem\Common\SkillManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ns.SkillData" Collapsed="true">
+    <Position X="7.5" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAIABAAiAAEJACIACAEAAEEARAAQkJAAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\SkillSystem\Common\SkillData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ns.MeleeSkillDeployer" Collapsed="true">
+    <Position X="5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SkillSystem\Deployer\MeleeSkillDeployer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ns.IImpactEffect">
+    <Position X="11.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SkillSystem\ImpactEffects\IImpactEffect.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ns.IAttackSector">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SkillSystem\Selectors\IAttackSector.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
